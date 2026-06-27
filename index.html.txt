@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pooya Pasha | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Pooya Pasha</h1>
+
+    <h3>Essay Writer in Mechanical Engineering</h3>
+
+    <p>
+        I am a mechanical engineer, and I am here to help you write
+        professional, high-quality international research articles
+        in the field of mechanical engineering.
+    </p>
+
+    <h2>Education</h2>
+
+    <p>PhD in Mechanics</p>
+
+    <h2>Skills</h2>
+
+    <ul>
+        <li>CFD</li>
+        <li>Programming</li>
+        <li>Coding</li>
+    </ul>
+
+    <a href="mailto:Pasha.Pooya@yahoo.com" class="btn">
+        Contact Me
+    </a>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
